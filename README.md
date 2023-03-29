@@ -5,6 +5,7 @@
 -->
 
 ✍ I'm a student of: University of Information Technology ---> https://uit.edu.vn/
+<br>
 📫 How to reach me: <a href="mailto:thanhtrungvnger@gmail.com" alt="Email">thanhtrungvnger@gmail.com</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -51,7 +52,7 @@
 <br>
 <div align=center>
   <a href="#" title="Trung">
-    <img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung0302&hide=CSS,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung0302&hide=CSS,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   </a>
   <a href="#" title="Trung">
