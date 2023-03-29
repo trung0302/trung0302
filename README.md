@@ -56,7 +56,7 @@
   </a>
   </a>
   <a href="#" title="Trung">
-    <img align="right" width="470" src="https://github-readme-stats.vercel.app/api?username=trung0302&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="465" src="https://github-readme-stats.vercel.app/api?username=trung0302&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <br>
