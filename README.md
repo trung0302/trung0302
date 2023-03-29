@@ -51,11 +51,11 @@
 <br>
 <div align=center>
   <a href="#" title="Trung">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung0302&hide=CSS,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung0302&hide=CSS,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   </a>
   <a href="#" title="Trung">
-    <img align="right" width="435px" src="https://github-readme-stats.vercel.app/api?username=trung0302&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=trung0302&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <br>
