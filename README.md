@@ -1,23 +1,11 @@
-### Hi there 👋
+### Hi, I'm Nguyễn Thành Trung. Thank you for visting my github👋
 
 <!--
 **trung0302/trung0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Trung-official" />
-</a>
+Here are some ideas to get you started:
+✍ I'm a student of: University of Information Technology ---> https://uit.edu.vn/
+📫 How to reach me: <a href="mailto:thanhtrungvnger@gmail.com" alt="Email">thanhtrungvnger@gmail.com</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -69,28 +57,23 @@ Here are some ideas to get you started:
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trung0302&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung0302&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="QuocBao1097" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=trung0302&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="QuocBao1097" width="100%"/>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="Trung-blog" />
-  </a>
-  <a href="" target="blank">
+  <a href="https://www.facebook.com/Trungg03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Trung-facebook" />
   </a>
-  <a href="https://www.youtube.com" target="blank">
+  <a href="[https://www.youtube.com](https://www.youtube.com/channel/UC5ia84mm-l0vlV7R6GnUZ_Q)" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Trung-youtube" />
   </a>
-  <a href="https://www.linkedin.com/" target="blank">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/nguy%E1%BB%85n-trung-a911a526a/)" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Trung-linkedin" />
   </a>
-  <a href="https://instagram.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Trung-instagram" />
-  </a>
-  <a href="mailto:" target="top">
+  <a href="mailto:thanhtrungvnger@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Trung-email" />
   </a>
 </div>
