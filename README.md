@@ -3,7 +3,7 @@
 <!--
 **trung0302/trung0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 ✍ I'm a student of: University of Information Technology ---> https://uit.edu.vn/
 📫 How to reach me: <a href="mailto:thanhtrungvnger@gmail.com" alt="Email">thanhtrungvnger@gmail.com</a>
 
@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <a href="#" title="Trung">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung0302&hide=CSS,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung0302&hide=CSS,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   </a>
   <a href="#" title="Trung">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trung0302&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trung0302&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <br>
